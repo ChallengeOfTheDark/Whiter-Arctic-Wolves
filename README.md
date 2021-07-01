@@ -9,8 +9,8 @@ Now updated for Planet Zoo 1.6
 Note: the color variation update in Planet Zoo does not come with separate textures, so the wolves will be using the base one (color variation seems to be given by parameters). Arctic wolves, by default following this update have subtle variation, so this mod will also have some very slight variation in wolves (images shown still apply).  
 
 ## **How to install:** ##
--Backup original folders from steamapps\common\Planet Zoo\win64\ovldata\Content1\Animals\Dogs\Arctic_Wolf   and place them somewhere you can find them. 
--Unzip the folders in this mod and add the ones you wish to the "Arctic Wolf" folder from your Planet Zoo Content1 folder, overwriting existing files if prompted. 
+-Backup original folders from ```steamapps\common\Planet Zoo\win64\ovldata\Content1\Animals\Dogs\Arctic_Wolf```   and place them somewhere you can find them. 
+-Unzip the folders in this mod and add the ones you wish to the ```Arctic Wolf``` folder from your Planet Zoo `Content1` folder, overwriting existing files if prompted. 
 -Done! Enjoy! :) 
 
 If you'd like only one wolf to be replaced, the male, female or juvenile, you can download just the file you want.
