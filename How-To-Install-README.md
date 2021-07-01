@@ -15,3 +15,5 @@ If you'd like only one wolf to be replaced, the male, female or juvenile, you ca
 
 I update my mods within the first three days of a Planet Zoo update. If that doesn't happen it means I don't have internet and will update as soon as I get it. 
 Please do not update my mods. I will do it myself. 
+![Planet Zoo Screenshot 2020 09 07 - 15 03 06 33](https://user-images.githubusercontent.com/81271936/124169632-1d431680-daaf-11eb-9aa0-77cf29d29ddf.png)
+![Planet Zoo Super-Resolution 2020 09 06 - 19 45 39 44](https://user-images.githubusercontent.com/81271936/124169646-246a2480-daaf-11eb-9253-880b05302ad2.jpg)
